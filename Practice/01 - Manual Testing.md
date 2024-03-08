@@ -14,10 +14,10 @@ Fill this it with as many testcases as you can. 1 testcase usually contains mult
 | Name                                  | Name of the test. Make it clear what the test is about, but don't make it too long. |
 | Status                                | Status of the test, at the moment just leave it as draft.                           |
 | Precondition                          | Precondition of the test. For example: Log in to xy, or Open webpage xy             |
-| Objective                             | Objective of the test. For example: To check that the login feature works.        |
-| Priority                              | Priority of the test. For example: High for login feature                          |
+| Objective                             | Objective of the test. For example: To check that the login feature works.          |
+| Priority                              | Priority of the test. For example: High for login feature                           |
 | Owner                                 | The owner of the test, usually the creator.                                         |
-| Estimated                             | Time	The average time it takes to complete the test. For example 5 minutes     |
+| Estimated                             | Time	The average time it takes to complete the test. For example 5 minutes         |
 | Test Script (Steps) - Step            | The step the tester should do.                                                      |
-| Test Script (Steps) - Test Data       | The data the tests should use if needed.                                           |
+| Test Script (Steps) - Test Data       | The data the tests should use if needed.                                            |
 | Test Script (Steps) - Expected Result | The expected result the tester should see. Be as specific as possible.              |
