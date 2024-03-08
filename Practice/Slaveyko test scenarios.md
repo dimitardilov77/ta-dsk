@@ -47,7 +47,7 @@ TEST
 | ------------------------------------- | ----------------------------------------------------------------------------------- 
 | Name                                  | Check if selected picture is in the proper format
 | Status                                | Draft                 
-| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form. Input names and phone.
+| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form. 
 | Objective                             | Check if selected picture is in the proper format. Supported formats: jpg, png, bmp     
 | Priority                              | Low                     
 | Owner                                 | Creator                                     
@@ -62,7 +62,7 @@ TEST
 | ------------------------------------- | ----------------------------------------------------------------------------------- 
 | Name                                  | Check states and cities
 | Status                                | Draft                 
-| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form. Input names and phone.
+| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form. 
 | Objective                             | Check if for each states there are at least one city to be selected  
 | Priority                              | Low                     
 | Owner                                 | Creator                                     
