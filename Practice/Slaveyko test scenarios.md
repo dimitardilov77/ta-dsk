@@ -5,7 +5,7 @@ TEST
 | ------------------------------------- | ----------------------------------------------------------------------------------- 
 | Name                                  | Check the names are correct 
 | Status                                | Draft                 
-| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form
+| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form. 
 | Objective                             | To check if the user input both First and Last name and they are correct        
 | Priority                              | High                     
 | Owner                                 | Creator                                     
@@ -19,7 +19,7 @@ TEST
 | ------------------------------------- | ----------------------------------------------------------------------------------- 
 | Name                                  | Check the email is correct
 | Status                                | Draft                 
-| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form
+| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form. Input names and phone.
 | Objective                             | To check if the email format input from the user is correct        
 | Priority                              | Medium                     
 | Owner                                 | Creator                                     
@@ -33,7 +33,7 @@ TEST
 | ------------------------------------- | ----------------------------------------------------------------------------------- 
 | Name                                  | Check the mobile number is filled in and correct
 | Status                                | Draft                 
-| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form
+| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form. Input names.
 | Objective                             | To check if the mobile number is filled in and have at exactly 10 digits       
 | Priority                              | High                     
 | Owner                                 | Creator                                     
@@ -47,7 +47,7 @@ TEST
 | ------------------------------------- | ----------------------------------------------------------------------------------- 
 | Name                                  | Check if selected picture is in the proper format
 | Status                                | Draft                 
-| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form
+| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form. Input names and phone.
 | Objective                             | Check if selected picture is in the proper format. Supported formats: jpg, png, bmp     
 | Priority                              | Low                     
 | Owner                                 | Creator                                     
@@ -62,7 +62,7 @@ TEST
 | ------------------------------------- | ----------------------------------------------------------------------------------- 
 | Name                                  | Check states and cities
 | Status                                | Draft                 
-| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form
+| Precondition                          | Open practice form at https://demoqa.com/automation-practice-form. Input names and phone.
 | Objective                             | Check if for each states there are at least one city to be selected  
 | Priority                              | Low                     
 | Owner                                 | Creator                                     
